@@ -1,0 +1,32 @@
+Package: cn.empoint.gls
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 瑛甸字体源™
+Depends: mobilesubstrate
+Filename: debs/cn.empoint.gls_1.0.deb
+Size: 18579284
+MD5sum: d37127a23eef60bc27ebd6b76a7dc4b5
+SHA1: c843b9d58c8cd85a6f65cb3c02b542e6fbe69397
+SHA256: 574d71aa5f1fef6d7b91b9f6a94ce84750dfbaf28a40cbf8394bf5cb8bcc513b
+Section: 字体
+Author: 瑛甸字体源
+Icon: file:///Applications/Cydia.app/Sections/Fonts.png
+Name: 古隶书
+Sponsor: 瑛甸字体源™
+
+Package: cn.empoint.pykt
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 瑛甸字体源™
+Depends: mobilesubstrate
+Filename: debs/cn.empoint.pykt_1.0.deb
+Size: 23800596
+MD5sum: c4ac3faf3353fd8f14cfc5b71d4dd859
+SHA1: d720caadf35d4c9ff50942126e937fe423b69eee
+SHA256: 86f13fb9055a60f40c261e3eefa0bf96ccaa9f6178d32181f22e3a2eb83add47
+Section: 字体
+Author: 瑛甸字体源
+Icon: file:///Applications/Cydia.app/Sections/Fonts.png
+Name: 拼音楷体
+Sponsor: 瑛甸字体源™
+
